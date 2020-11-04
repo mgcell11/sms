@@ -9,6 +9,6 @@ apt install python
 apt install git
 git clone https://github.com/mgcell11/sms
 pip install requests mechanize bs4
-cd SpamSms
-python main.py
+cd sms
+python run.py
 ```
