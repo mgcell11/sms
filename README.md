@@ -1,7 +1,7 @@
 # SpamSms
 Spam sms
 
-# How To Use
+# USAGE
 > PYTHON 3.X
 ```
 apt update && pkg upgrade
