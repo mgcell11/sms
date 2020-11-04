@@ -1,5 +1,5 @@
 # SpamSms
-Spam sms (NEW UPDATE)
+Spam sms
 
 # How To Use
 > PYTHON 3.X
